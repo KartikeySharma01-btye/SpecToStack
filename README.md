@@ -168,3 +168,65 @@ Auto Fix Agent
     │
     ▼
 Ready-to-Deploy Application
+
+
+🎯 Supported Applications
+Business Websites
+Agency Websites
+Clinic Websites
+Restaurant Websites
+Gym Websites
+Portfolio Websites
+SaaS Platforms
+CRM Systems
+LMS Platforms
+Job Portals
+Inventory Systems
+Clinic Management Systems
+Booking Systems
+Full Stack Applications
+Authentication Systems
+Admin Dashboards
+Role-Based Platforms
+CRUD Applications
+Internal Business Tools
+🚀 Development Roadmap
+Phase 1
+Requirement Collection Agent
+PRD Generator
+Architecture Generator
+Phase 2
+Frontend Generator
+Backend Generator
+Database Generator
+Phase 3
+Build Execution
+Testing Workflow
+Project Export
+Phase 4
+Error Detection
+Auto-Fix Agent
+Deployment Automation
+🎯 Vision
+
+Transform:
+
+Idea → Requirements → Architecture → Code → Testing → Deployment
+
+into a single AI-powered workflow.
+
+👨‍💻 Author
+Kartikey Sharma
+
+B.Tech Computer Science Engineering
+
+Full Stack Developer | AI Engineer
+
+GitHub:
+https://github.com/KartikeySharma01-btye
+
+LinkedIn:
+https://www.linkedin.com/in/kartikey-sharma-b8b83933b
+
+Email:
+kartikey.sharmaksp123@gmail.com
